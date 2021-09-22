@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34554170656",
+    "project_id": "procurarjogadores",
+    "storage_bucket": "procurarjogadores.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34554170656:android:0b16437e2824393d5adb45",
+        "android_client_info": {
+          "package_name": "com.example.aplicacaociam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34554170656-gjn7ql9oq7ucr8akc00ar5a9n4856e0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2TOFNUA1IxdgiMSBT9HXsyM38dFCo8Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34554170656-gjn7ql9oq7ucr8akc00ar5a9n4856e0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
